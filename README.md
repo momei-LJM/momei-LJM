@@ -1,12 +1,24 @@
-## Hi,I’m Momei 👋
+<h1 align="left">Hi,I’m Momei 👋</h1>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=momei-LJM&count_private=true&theme=vue&show_icons=true&include_all_commits=true&hide_border=true" style="height: 195px; border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momei-LJM&theme=vue&layout=compact&hide_border=true" style="height: 195px; margin-left: 20px; border-radius: 10px;"/>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momei-LJM&theme=vue&hide_border=true" style="border-radius: 10px;"/>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momei-LJM&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=momei-LJM&locale=en&mode=daily&theme=vue&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
+###
