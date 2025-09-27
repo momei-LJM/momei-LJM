@@ -4,7 +4,7 @@
 
 <ul>
   <li>A front-end developer</li>
-  <li>My blog: <a href="momei.me">momei.me</a></li>
+  <li>My blog: www.momei.me</li>
 </ul>
 
 ###
